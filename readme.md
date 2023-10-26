@@ -9,7 +9,7 @@
 <a href="https://anandbhardwaj1.onrender.com/" target="_blank">**Visit Now** 🚀</a>
 
   
-<h2>💻 Built with</h2>
+
 
 
 ## 📌 Tech Stack
