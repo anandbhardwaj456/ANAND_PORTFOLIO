@@ -18,4 +18,4 @@ Technologies used in the project:
 *   JAVASCRIPT
 *   JQUERY
 ## 📌 Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
