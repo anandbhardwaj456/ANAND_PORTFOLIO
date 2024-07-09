@@ -42,7 +42,7 @@
     {
     "name": "Driver Drowsiness Detection and Alert System",
     "desc": "Android based project for driver drowsiness detection and generating alert for drowsiness.",
-    "image": "R",
+    "image": "assets/images/projects/R.jpg",
     "category": "development",
     "links": {
       "code": "https://github.com/anandbhardwaj456/AccidentAlertSystem"
