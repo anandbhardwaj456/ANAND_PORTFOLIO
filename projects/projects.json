@@ -38,6 +38,15 @@
       
       "code": "https://github.com/anandbhardwaj456/anand_olympic_data_analysis"
     }
+  },
+    {
+    "name": "Driver Drowsiness Detection and Alert System",
+    "desc": "Android based project for driver drowsiness detection and generating alert for drowsiness.",
+    "image": "R",
+    "category": "development",
+    "links": {
+      "code": "https://github.com/anandbhardwaj456/AccidentAlertSystem"
+    }
   }
  
 ]
