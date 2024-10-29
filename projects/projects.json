@@ -11,7 +11,7 @@
   },
   {
     "name": "Portfolio",
-    "desc": "Full-Stack portfolio with my details,work,skills and contat details.",
+    "desc": "Responsive portfolio with my details,work,skills and contat details.",
     "image": "portfolio",
     "category": "development",
     "links": {
@@ -41,7 +41,7 @@
   },
     {
     "name": "Driver Drowsiness Detection and Alert System",
-    "desc": "Android based project for driver drowsiness detection and generating alert for drowsiness.",
+    "desc": "Android based project for driver drowsiness detection and generating alert for drowsiness, with tech stack used like python-numpy,tensorflow,opencv,matlplotlib,seaborn & pandas and machine learning algorithms like convolutional neural network ",
     "image": "R",
     "category": "development",
     "links": {
