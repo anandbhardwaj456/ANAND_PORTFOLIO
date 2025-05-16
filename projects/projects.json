@@ -42,11 +42,20 @@
     {
     "name": "Driver Drowsiness Detection and Alert System",
     "desc": "Android based project for driver drowsiness detection and generating alert for drowsiness, with tech stack used like python-numpy,tensorflow,opencv,matlplotlib,seaborn & pandas and machine learning algorithms like convolutional neural network ",
-    "image": "R",
+    "image": "Android,java & machine learning",
     "category": "development",
     "links": {
       "code": "https://github.com/anandbhardwaj456/AccidentAlertSystem"
     }
-  }
+  },
+  {
+    "name": "Online Code Editor",
+    "desc": "A online code editor with multi language code editor using monaco editor and it also contains a database for securing data foor each login.",
+    "image": "code-editor",
+    "category": "development",
+    "links": {
+      "code": "https://github.com/anandbhardwaj456/codeEditor"
+    }
+  },
  
 ]
